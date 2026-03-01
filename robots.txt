@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cleverbroward.xyz/sitemap.xml
